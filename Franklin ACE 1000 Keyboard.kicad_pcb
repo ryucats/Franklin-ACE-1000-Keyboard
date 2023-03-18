@@ -6120,7 +6120,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp d0c2f2af-a888-417a-9712-1ca9f49df2e0)
     (pts (xy 94.7 263.9) (xy 504.45 263.9))
     (height 32.4)
-    (gr_text "409.7500 mm" (at 299.575 295.15) (layer "Cmts.User") (tstamp d0c2f2af-a888-417a-9712-1ca9f49df2e0)
+    (gr_text "16.1319 in" (at 299.575 295.15) (layer "Cmts.User") (tstamp d0c2f2af-a888-417a-9712-1ca9f49df2e0)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
